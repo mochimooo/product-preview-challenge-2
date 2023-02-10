@@ -7,7 +7,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Acknowledgments](#acknowledgments)
@@ -25,11 +24,6 @@ Users should be able to:
 
 ![finished look on desktop screen](/images/Screenshot%202023-02-09%20231509.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]()
-
 ## My process
 
 ### Built with
@@ -43,5 +37,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Acknowledgments
 
-Thank you Kevin Powell and @vcarames. 
+I couldn't have done this project without the help of Youtuber Kevin Powell's tutorial video on this project. 
+
+Link: (https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell)
+
 
