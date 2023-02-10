@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). This is the second time I am tackling this challenge with the help of Kevin Powell's video (https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell). Inspired by バレンタイン 😈 (@vcarames)'s challenge, I took liberty of changing the picture, product description, and background color to make it a little more fun while learning how to code correctly this time. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). It's the second time I am tackling this challenge with the help of Kevin Powell's video on YouTube (link in Acknowledgments section). Inspired by バレンタイン 😈 (@vcarames)'s challenge, I took liberty of changing the picture, product description, and background color to make it a little more fun while learning how to code correctly this time. 
 
 ## Table of contents
 
@@ -39,6 +39,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 I couldn't have done this project without the help of Youtuber Kevin Powell's tutorial video on this project. 
 
-Link: (https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell)
+Link: https://www.youtube.com/watch?v=B2WL6KkqhLQ&ab_channel=KevinPowell
 
-
+Also shout out to @vcarames on Frontend Mentor that gives me the idea to redo this challenge with a different design.
